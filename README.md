@@ -34,7 +34,9 @@ I'm a DevSecOps Engineer from **Ukraine** 🇺🇦, focused on building secure, 
 ![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=flat-square&logo=victoriametrics&logoColor=white)
 ![VictoriaLogs](https://img.shields.io/badge/VictoriaLogs-621773?style=flat-square&logo=victoriametrics&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-FFD814?style=flat-square&logo=vault&logoColor=black)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![Checkov](https://img.shields.io/badge/Checkov-2496ED?style=flat-square&logo=bridgecrew&logoColor=white)
 
