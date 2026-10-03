@@ -50,12 +50,3 @@ I'm a DevSecOps engineer from **Ukraine** 🇺🇦. I run Kubernetes clusters an
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
----
-
-### 📫 Let's connect
-
-<a href="https://dmytrobot.dev/"><img src="assets/connect-website.svg" alt="dmytrobot.dev" height="40"></a>
-<a href="https://dmytrobot.dev/blog/"><img src="assets/connect-blog.svg" alt="Blog" height="40"></a>
-<a href="https://www.linkedin.com/in/dmytro-bot"><img src="assets/connect-linkedin.svg" alt="LinkedIn" height="40"></a>
-<a href="mailto:kriptexm@gmail.com"><img src="assets/connect-email.svg" alt="Email" height="40"></a>
