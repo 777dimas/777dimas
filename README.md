@@ -10,6 +10,7 @@ I'm a DevSecOps engineer from **Ukraine** 🇺🇦. I run Kubernetes clusters an
 ### 📝 Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resizing Amazon MQ for RabbitMQ without breaking production](https://dmytrobot.dev/blog/rabbitmq-safe-scaling/)
 - [Traefik behind an NLB: surviving node rotation](https://dmytrobot.dev/blog/traefik-node-rotation/)
 - [Policy as code for Terraform: the gate is easy, the pipeline is not](https://dmytrobot.dev/blog/terraform-policy-as-code/)
 - [Adopting OPA Gatekeeper: mechanics and failure modes](https://dmytrobot.dev/blog/opa-gatekeeper/)
